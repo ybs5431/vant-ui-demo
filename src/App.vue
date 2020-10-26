@@ -37,6 +37,7 @@ export default {
       console.log("点击了刷新小图标");
       jjjjjjjjj
       this.msg = "";
+      3333
     },
     onFulfilled() {
       console.log("刷新成功啦！");
