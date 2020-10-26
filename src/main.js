@@ -6,6 +6,9 @@ import { Button,Cell, CellGroup } from 'vant';
 Vue.use(Cell);
 Vue.use(CellGroup)
 Vue.use(Button);
+import SlideVerify from 'vue-monoplasty-slide-verify';
+Vue.use(SlideVerify);
+
 
 Vue.config.productionTip = false
 
